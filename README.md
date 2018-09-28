@@ -1,4 +1,8 @@
-# kubernetes-best-practices
+# Kubernetes-Best-Practices
+
+There is also video series from Sandeep Dinesh about Kubernetes-Best-Practices for production-ready Kubernetes deployments.
+
+Every video blog have blog post too at [Google-Cloud-Platform](CloudPlatform.googleblog.com).
 
 1. [How and why to build small container images](https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-how-and-why-to-build-small-container-images.html)
 2. [Organizing with Namespaces](https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html)
